@@ -1,6 +1,7 @@
 ---
 title: Github.io + Hexo + Aurora 主题搭建个人博客
 date: 2023-10-05 20:51:36
+cover: https://source.unsplash.com/ukzHlkoz1IE/1200x628
 tags: 博客
 ---
 
