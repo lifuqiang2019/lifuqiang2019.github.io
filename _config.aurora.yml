@@ -9,15 +9,15 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: Lengyuer's Blog
+  author: 李富强
+  nick: lengyuer
+  description: Think like an artist, code like an artisan.
   link: '/'
   language: en
   multi_language: true
-  logo:
-  avatar:
+  logo: https://lengyuerbucket.oss-cn-beijing.aliyuncs.com/dolphin.jpg
+  avatar: https://lengyuerbucket.oss-cn-beijing.aliyuncs.com/dolphin.jpg
   beian:
     number: ''
     link: ''
