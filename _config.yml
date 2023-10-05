@@ -109,4 +109,6 @@ theme: aurora
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:lifuqiang2019/lifuqiang2019.github.io.git
+  branch: main
